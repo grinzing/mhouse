@@ -2,9 +2,9 @@
 - 何をかくか決めたいところ
 - これでなにかコミットできるのか
 
-## github用語備忘録
+## GitHub用語備忘録
 commit 
 branch　
 pull request
 
-## 三浦家github用語備忘録
+## 三浦家GitHub用語備忘録
